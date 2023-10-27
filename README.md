@@ -1,0 +1,2 @@
+# getBrowserVersionAndName-JS
+getBrowserVersionAndName JS
